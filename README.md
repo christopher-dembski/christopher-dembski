@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **christopher-dembski/christopher-dembski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Christopher Dembski
+
+- Software engineering intern at Shopify
+- Computer science student at York University
+- Former professional woodwind player + teacher
+
+🔧🌱 Tools I'm Using / Learing 🔧🌱
+- Python, Java, Ruby, Rails, SQL, JavaScript, TypeScript, React, HTML, CSS
+
+📫 [GitHub (Personal)](https://github.com/christopher-dembski) | [GitHub (Shopify)](https://github.com/Christopher-Dembski-Shopify)
