@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 🔧🌱 Tools I'm Using / Learing 🔧🌱
 - Python, Java, Ruby, Rails, SQL, JavaScript, TypeScript, React, HTML, CSS
 
-📫 [GitHub (Personal)](https://github.com/christopher-dembski) | [GitHub (Shopify)](https://github.com/Christopher-Dembski-Shopify)
+📫 [LinkedIn](https://www.linkedin.com/in/christopher-dembski-419859276/) | [GitHub (Personal)](https://github.com/christopher-dembski) | [GitHub (Shopify)](https://github.com/Christopher-Dembski-Shopify)
